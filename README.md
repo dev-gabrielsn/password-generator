@@ -52,9 +52,6 @@ password-manager/
 ├── logo.png # Application logo
 └── README.md
 
-yaml
-Copiar código
-
 ---
 
 ## 🛠️ Technologies Used
