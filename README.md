@@ -71,7 +71,7 @@ Copiar código
 
 1. Make sure Python 3 is installed on your system.
 2. Clone the repository:
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/dev-gabrielsn/password-manager.git
 3. Navigate to the project folder:
    cd password-manager
 4. Run the application:
