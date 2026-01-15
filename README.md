@@ -45,12 +45,12 @@ This project was developed to practice and demonstrate:
 
 ## 📁 Project Structure
 
-password-manager/
-│
-├── main.py # Main application logic and UI
-├── data.json # Local storage for saved credentials
-├── logo.png # Application logo
-└── README.md
+password-manager/  
+│  
+├── main.py # Main application logic and UI  
+├── data.json # Local storage for saved credentials  
+├── logo.png # Application logo  
+└── README.md  
 
 ---
 
