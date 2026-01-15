@@ -5,7 +5,10 @@ A desktop password manager application built with **Python** and **Tkinter** tha
 All data is persisted in a local `data.json` file, simulating a lightweight credential database.
 
 ---
-
+<p align="center">
+  <img width="516" height="430" alt="image" style="align-items: center;" src="https://github.com/user-attachments/assets/a06d2fdf-9515-40a6-bc36-b4590ffbf098" />
+</p>
+  
 ## 🎯 Project Purpose
 
 This project was developed to practice and demonstrate:
@@ -92,3 +95,4 @@ password-manager/
 - Copy password to clipboard
 - Refactor into multiple modules
 - Add automated tests
+
